@@ -90,7 +90,6 @@ while (true) {
             cout << "Spausk s..." << endl;
         }
     }
-    system("clear");
     vector<vector<char>> labirintas = {
         {'#', '#', '#', '#', '#', '#', '#', '#', '#', '#'},
         {'#', ' ', ' ', ' ', '#', ' ', ' ', ' ', ' ', '#'},
